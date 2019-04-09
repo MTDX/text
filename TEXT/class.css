@@ -1,0 +1,43 @@
+.A{
+  position: absolute;
+  top: 60px;
+  left:100px;
+  width:20px;
+  border: 20px blue solid;
+  background-color: brown;
+  width:100px;
+  height:100px;
+  z-index: 100;
+}
+
+.B{
+  position: absolute;
+  top: 100px;
+  left:200px;
+  width:280px;
+  border: 30px green solid;
+  background-color:orange;
+  width:100px;
+  height:100px;
+  z-index: 20;
+}
+
+.C{
+  border: 30px black solid;
+  background-color: cornflowerblue;
+  width:500px;
+  height:500px;
+  z-index: 10;
+}
+
+.D{
+position: absolute;
+top: 10px;
+left:20px;
+width:280px;
+border: 30px rebeccapurple SOLID;
+background-color:khaki;
+width:1000px;
+height:1000px;
+z-index: 5;
+}
